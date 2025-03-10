@@ -18,7 +18,7 @@ The Clinic Management System demonstrates how to build scalable and maintainable
   Secure and standardized endpoints to handle various clinic operations.
 - **Data Management:**  
   Seamless integration with your database for robust data handling.
-- **Extensible Architecture:**  
+- **3-Tier Architecture:**  
   A modular design that allows easy expansion of features as the clinic grows.
 
 ## Technologies Used
@@ -32,8 +32,8 @@ The Clinic Management System demonstrates how to build scalable and maintainable
 ## Team Collaboration
 
 This project was developed as a collaborative effort by a dedicated team. Special thanks to our talented programmers:
-- [Programmer One](https://github.com/A-KAlqadsi)
-- [Programmer Two](https://github.com/AbdulrahmanPro)
+- [A-KAlqadsi](https://github.com/A-KAlqadsi)
+- [AbdulrahmanPro](https://github.com/AbdulrahmanPro)
 
 We encourage you to visit their GitHub profiles to learn more about their work and contributions.
 
